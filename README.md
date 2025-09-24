@@ -15,7 +15,7 @@
 
   
 
-  [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)### `npm start`
+  [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)`npm start`
 
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0+-blue.svg)](https://tailwindcss.com/)
 
