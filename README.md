@@ -242,7 +242,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-**Khush Patel**
+**Khush Paliwal**
 - GitHub: [@khush196](https://github.com/khush196)
 - Repository: [SurakshaNET-Dashboard](https://github.com/khush196/SurakshaNET-Dashboard)
 
@@ -250,7 +250,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🙏 Acknowledgments
 
-- **React Team** - For the amazing React framework
+- **React** - For the amazing React framework
 - **Tailwind CSS** - For the utility-first CSS framework
 - **Framer Motion** - For smooth animations
 - **Lucide** - For beautiful icons
