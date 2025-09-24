@@ -41,7 +41,7 @@ The page will reload if you make edits.\
 
 - [Tech Stack](#tech-stack)
 
-- [Installation](#installation)### `npm run build`
+- [Installation](#installation) `npm run build`
 
 - [Usage](#usage)
 
@@ -61,7 +61,7 @@ The build is minified and the filenames include the hashes.\
 
 
 
-**SurakshaNET Dashboard** is a modern, secure command and control interface designed for security operations and user management. Built with React and featuring a sleek dark theme, this dashboard provides comprehensive monitoring capabilities with a professional military-inspired design.### `npm run eject`
+**SurakshaNET Dashboard** is a modern, secure command and control interface designed for security operations and user management. Built with React and featuring a sleek dark theme, this dashboard provides comprehensive monitoring capabilities with a professional military-inspired design. `npm run eject`
 
 
 
