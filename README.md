@@ -4,7 +4,7 @@
 
 <div align="center">This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  <img src="public/logo.png" alt="SurakshaNET Logo" width="120" height="120" style="border-radius: 50%;">
+  <img src="public/logo.png" alt="SurakshaNET Logo" width="120" height="120" align-titem="center" style="border-radius: 50%;">
 
   ## Available Scripts
 
